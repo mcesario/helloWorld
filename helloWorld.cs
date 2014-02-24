@@ -2,7 +2,7 @@
 // arguments: A B C D
 using System;
 
-public class Hello3
+public class HelloWorld
 {
    public static void Main(string[] args)
    {
